@@ -6,7 +6,7 @@
 		   <div class="page-wrapper">
 			  <div class="page-body">
 				<!-- <div class="row"> -->
-
+<img src="" alt="">
 <!-- aswin update start -->
                 <h1 >Add Vendor</h1><br>
     <a href="{{url('manage_adminvendor')}}">
