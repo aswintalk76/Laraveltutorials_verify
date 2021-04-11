@@ -1,0 +1,10 @@
+composer require laravel/ui --dev
+php artisan ui vue --auth
+npm install
+npm run watch
+
+php artisan make:auth
+
+php artisan make:model Permission -m
+php artisan make:model Role -m
+
